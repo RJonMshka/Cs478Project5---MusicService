@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MusicCentralAppP5</string>
+    <string-array name="song_titles">
+        <item>Better Days</item>
+        <item>Little Planet</item>
+        <item>Badass</item>
+        <item>Birth of a Hero</item>
+        <item>Endless Motion</item>
+        <item>The Elevator Bossa Nova</item>
+    </string-array>
+    <string-array name="song_artists">
+        <item>Benjamin Tissot</item>
+        <item>Benjamin Tissot</item>
+        <item>Benjamin Tissot</item>
+        <item>Benjamin Tissot</item>
+        <item>Benjamin Tissot</item>
+        <item>Benjamin Tissot</item>
+    </string-array>
+    <string-array name="song_urls">
+        <item>https://www.bensound.com/bensound-music/bensound-betterdays.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-littleplanet.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-badass.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-birthofahero.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-endlessmotion.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-theelevatorbossanova.mp3</item>
+    </string-array>
+</resources>
